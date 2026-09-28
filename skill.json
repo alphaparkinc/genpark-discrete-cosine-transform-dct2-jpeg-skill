@@ -1,0 +1,19 @@
+{
+  "name": "genpark-discrete-cosine-transform-dct2-jpeg-skill",
+  "version": "1.0.0",
+  "description": "Type-II Discrete Cosine Transform (DCT-II) and orthonormal Inverse DCT with block-based energy compaction",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "dct",
+    "discrete-cosine-transform",
+    "jpeg-compression",
+    "image-processing",
+    "energy-compaction",
+    "dsp",
+    "python-standard-library",
+    "agent-skills",
+    "spectral-coding",
+    "multimedia-algorithms"
+  ]
+}

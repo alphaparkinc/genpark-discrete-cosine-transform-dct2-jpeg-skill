@@ -1,0 +1,5 @@
+name: genpark-discrete-cosine-transform-dct2-jpeg-skill
+description: Type-II Discrete Cosine Transform (DCT-II) and orthonormal Inverse DCT with block-based energy compaction
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
